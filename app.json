@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Islom Book",
+    "slug": "IslomBook",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/swap-4.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo_loder.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo_loder.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/swap-4.png"
+    }
+  }
+}
